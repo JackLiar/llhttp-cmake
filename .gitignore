@@ -1,5 +1,6 @@
 build/
 llhttp.pc
+*.tar.gz
 
 CMakeLists.txt.user
 CMakeCache.txt
