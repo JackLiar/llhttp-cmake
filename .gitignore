@@ -1,3 +1,6 @@
+build/
+llhttp.pc
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
