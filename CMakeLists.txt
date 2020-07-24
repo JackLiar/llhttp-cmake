@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(llhttp VERSION 2.0.5)
+project(llhttp VERSION 2.1.1)
 
 list(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 include(macros)
