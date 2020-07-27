@@ -18,6 +18,7 @@ set(llhttp_src
 configure_file(
     ${CMAKE_CURRENT_SOURCE_DIR}/llhttp.pc.in
     ${CMAKE_CURRENT_SOURCE_DIR}/llhttp.pc
+    @ONLY
 )
 
 function(config_library target)
